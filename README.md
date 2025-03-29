@@ -1,5 +1,8 @@
 🌟 About Me
+
 Hi! I'm Jordan Peete, an accomplished IT Manager with over 6 years of experience in IT operations, cybersecurity, and project management. I have a proven track record of driving efficiency, developing innovative solutions, and leading teams to success. With expertise in cutting-edge technologies, frameworks, and governance, I specialize in aligning IT systems with business goals while ensuring robust security protocols.
+
+
 💼 Passionate about PowerShell Automation, migrating companies to new environments, and exploring the vast possibilities of AI development, I strive to deliver impactful results through collaboration and strategic planning.
 
 🛠️ Technical Skills
